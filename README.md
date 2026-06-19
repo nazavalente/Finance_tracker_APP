@@ -284,11 +284,15 @@ Several improvements can be made in future development, including:
 - Adding unit and integration testing
 - Preparing production deployment configuration
 
-## Author
+## Authors
 
-Nazario Jose Valente da Cruz  
-Informatics Student  
-Telkom University
+- Nazario Jose Valente da Cruz  
+  Informatics Student  
+  Telkom University
+
+- Mohamed Ali Ibrahim Gadelkarim  
+  Informatics Student  
+  Telkom University
 
 ## Repository
 
