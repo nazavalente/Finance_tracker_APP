@@ -1,17 +1,35 @@
-# finance_tracker_mobile_app
+# Finance Tracker Mobile App Frontend
 
-A new Flutter project.
+This folder contains the Flutter frontend for the Finance Tracker Mobile Application.
 
-## Getting Started
+The application provides screens for managing income and expense transactions, viewing financial summaries, filtering transaction data, and reviewing expense reports by category.
 
-This project is a starting point for a Flutter application.
+## Main Technologies
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter
+- Dart
+- Provider
+- HTTP
+- Intl
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Run Locally
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Install dependencies:
+
+```bash
+flutter pub get
+```
+
+Run the application:
+
+```bash
+flutter run
+```
+
+The backend API base URL is configured in:
+
+```text
+lib/core/constants/api_constants.dart
+```
+
+For full project documentation, see the root `README.md`.
