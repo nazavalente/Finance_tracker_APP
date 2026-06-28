@@ -253,11 +253,7 @@ flutter analyze
 
 Analyzes the Flutter source code.
 
-## My Contribution
-
-In this project, I worked on building a finance tracker mobile application with a separated frontend and backend structure. My work involved developing transaction management features, connecting the Flutter application to a REST API, organizing backend routes and controllers, integrating Firestore as the database, and preparing the project structure for submission.
-
-## What I Learned
+## What we Learned
 
 Through this project, I strengthened my understanding of:
 
